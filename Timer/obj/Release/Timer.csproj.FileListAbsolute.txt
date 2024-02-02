@@ -16,3 +16,14 @@ D:\Movaghari\Source\C#\Timer\Timer\obj\Release\Timer.Properties.Resources.resour
 D:\Movaghari\Source\C#\Timer\Timer\obj\Release\Timer.csproj.GenerateResource.cache
 D:\Movaghari\Source\C#\Timer\Timer\obj\Release\Timer.exe
 D:\Movaghari\Source\C#\Timer\Timer\obj\Release\Timer.pdb
+D:\Movaghari\Source\CSharp\Timer\Timer\bin\Release\Timer.exe.config
+D:\Movaghari\Source\CSharp\Timer\Timer\bin\Release\Timer.exe
+D:\Movaghari\Source\CSharp\Timer\Timer\bin\Release\Timer.pdb
+D:\Movaghari\Source\CSharp\Timer\Timer\obj\Release\Timer.csproj.AssemblyReference.cache
+D:\Movaghari\Source\CSharp\Timer\Timer\obj\Release\Timer.csproj.SuggestedBindingRedirects.cache
+D:\Movaghari\Source\CSharp\Timer\Timer\obj\Release\Timer.Form1.resources
+D:\Movaghari\Source\CSharp\Timer\Timer\obj\Release\Timer.Properties.Resources.resources
+D:\Movaghari\Source\CSharp\Timer\Timer\obj\Release\Timer.csproj.GenerateResource.cache
+D:\Movaghari\Source\CSharp\Timer\Timer\obj\Release\Timer.csproj.CoreCompileInputs.cache
+D:\Movaghari\Source\CSharp\Timer\Timer\obj\Release\Timer.exe
+D:\Movaghari\Source\CSharp\Timer\Timer\obj\Release\Timer.pdb

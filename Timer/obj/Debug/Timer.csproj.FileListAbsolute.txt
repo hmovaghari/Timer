@@ -7,3 +7,14 @@ C:\Users\hmovaghari\Dropbox\Visual Studio\Timer\Timer\obj\Debug\Timer.Properties
 C:\Users\hmovaghari\Dropbox\Visual Studio\Timer\Timer\obj\Debug\Timer.csproj.GenerateResource.Cache
 C:\Users\hmovaghari\Dropbox\Visual Studio\Timer\Timer\obj\Debug\Timer.exe
 C:\Users\hmovaghari\Dropbox\Visual Studio\Timer\Timer\obj\Debug\Timer.pdb
+D:\Movaghari\Source\CSharp\Timer\Timer\bin\Debug\Timer.exe.config
+D:\Movaghari\Source\CSharp\Timer\Timer\bin\Debug\Timer.exe
+D:\Movaghari\Source\CSharp\Timer\Timer\bin\Debug\Timer.pdb
+D:\Movaghari\Source\CSharp\Timer\Timer\obj\Debug\Timer.csproj.AssemblyReference.cache
+D:\Movaghari\Source\CSharp\Timer\Timer\obj\Debug\Timer.csproj.SuggestedBindingRedirects.cache
+D:\Movaghari\Source\CSharp\Timer\Timer\obj\Debug\Timer.Form1.resources
+D:\Movaghari\Source\CSharp\Timer\Timer\obj\Debug\Timer.Properties.Resources.resources
+D:\Movaghari\Source\CSharp\Timer\Timer\obj\Debug\Timer.csproj.GenerateResource.cache
+D:\Movaghari\Source\CSharp\Timer\Timer\obj\Debug\Timer.csproj.CoreCompileInputs.cache
+D:\Movaghari\Source\CSharp\Timer\Timer\obj\Debug\Timer.exe
+D:\Movaghari\Source\CSharp\Timer\Timer\obj\Debug\Timer.pdb
